@@ -2,9 +2,12 @@
 
 Writes a single line (at most 100 characters) that sums up a week:
 the win, the fail, the chaos, all of it.
+
+Round 2: the week as escalating breakage — plans Monday, laptop
+Wednesday — rescued Friday by tacos and a nap.
 """
 
-ENTRY = "Planned a perfect week, lost it by Tuesday, won it back Friday \u2014 chaos, coffee, one miracle."
+ENTRY = "Monday broke my plans, Wednesday broke my laptop, Friday fixed everything with tacos and a nap."
 
 
 def main() -> None:
