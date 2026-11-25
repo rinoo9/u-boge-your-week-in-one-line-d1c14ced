@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "Your Week in One Line" (u-boge-your-week-in-one-line-d1c14ced): a single line that sums up a week — the win, the fail, the chaos, all of it.
 
-Entry line (92 characters):
+Entry line (95 characters):
 
-> "Planned a perfect week, lost it by Tuesday, won it back Friday — chaos, coffee, one miracle."
+> "Monday broke my plans, Wednesday broke my laptop, Friday fixed everything with tacos and a nap."
 
 ## Run
 
